@@ -7,7 +7,8 @@ h1 {
     font-family: 'Press Start 2P', cursive;
     font-size: 66px;
     color: red;
-    margin: 0.2em;
+    line-height: 1.25;
+    margin: 0.5em;
 }
 
 h2 {
@@ -27,6 +28,10 @@ h2:first-of-type {
     margin-top: 15px;
 }
 
+#inputWidth, #inputHeight {
+    border: 1px solid #e7e7e7;
+}
+
 #submitButton {
     background-color: white;
     color: red;
@@ -42,7 +47,7 @@ h2:first-of-type {
 table,
 tr,
 td {
-    border: 1px solid black;
+    border: 1px solid #828282;
     background-color: white;
 }
 
