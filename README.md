@@ -12,4 +12,4 @@ A single-page web app that allows users to draw pixel art on a customizable canv
 
 4. Click on the desired grid squares to add your selected color to the grid. You can go back to step 3 as often as desired to select multiple colors.
 
-5. To clear your grid, click the **Reset** button.
+5. To clear your grid, click the **Submit** button.
